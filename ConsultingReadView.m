@@ -43,7 +43,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     
-    AppDelegate *delegate = (AppDelegate *)[[UIApplication sharedApplication]delegate];
+//    AppDelegate *delegate = (AppDelegate *)[[UIApplication sharedApplication]delegate];
     
     dic = dic_dic;
 //    dic = delegate.consulting_data;
